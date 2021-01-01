@@ -9,13 +9,13 @@ Here are some ideas to get you started:-->
 
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Praveesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveeshpavithran/) [![Mail Badge](https://img.shields.io/badge/-praveesh91-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:praveesh91@gmail.com)
+[![Linkein Badge](https://img.shields.io/badge/-Praveesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveeshpavithran/)
 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on **Robert Bosch**.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: praveesh@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
