@@ -2,6 +2,8 @@
 
 I'm Praveesh Pavithran a Front-end Web Developer.
 
+### Stats section
+[![Oliver's github stats](https://github-readme-stats.vercel.app/api?username=oliverjumpertz&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/oliverjumpertz) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverjumpertz&theme=tokyonight)](https://github.com/oliverjumpertz)
 
 <!--**praveesh91/praveesh91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
