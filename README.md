@@ -1,13 +1,25 @@
+## 👨🏻‍💻 About me
+
 ### Hi there I'm Praveesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Praveesh Pavithran a Front-end Web Developer.
+Find my portfolio here [website](https://martijn-lindeman.com/)
 
 ### Stats section
 [![Praveesh's github stats](https://github-readme-stats.vercel.app/api?username=praveesh91&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/praveesh91) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveesh91&theme=tokyonight)](https://github.com/oliverjumpertz)
 
-<!--**praveesh91/praveesh91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Stats
 
-Here are some ideas to get you started:-->
+<a href="https://github.com/praveesh91/github-readme-stats">
+  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=praveesh91&show_icons=true&theme=tokyonight" height="160"/>
+  </a>
+
+## 🏗️ Contributions   
+
+  <a href="https://git.io/streak-stats">
+  <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=praveesh91&theme=radical&hide_border=true&count_private=true" height="160"/>
+  </a>
+
 
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Praveesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveeshpavithran/) [![Mail Badge](https://img.shields.io/badge/-praveesh91-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:praveesh91@gmail.com)
@@ -18,8 +30,12 @@ Here are some ideas to get you started:-->
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: praveesh@gmail.com.
 
-#### Top Technologies
+## 🔧 Skills and Tools
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+<span><img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<span><img title="Node.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
+<span><img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
+<span><img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+<span><img title="AWS" src="assets/aws.png" width="30px"></span>
