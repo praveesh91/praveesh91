@@ -8,7 +8,7 @@ Find my portfolio here [website](https:/praveeshpavithran.online)
 ## 🔥 Stats
   
   <a href="https://github.com/praveesh91/github-readme-stats">
-  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=praveesh91&show_icons=true&theme=tokyonight" width:"50" height="250"/>
+  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=praveesh91&show_icons=true&theme=tokyonight" width:"50px" height="250"/>
   <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveesh91&theme=tokyonight" height="250"/>
   </a>
   
