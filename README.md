@@ -6,13 +6,20 @@ I'm Praveesh Pavithran a Front-end Web Developer.
 Find my portfolio here [website](https:/praveeshpavithran.online)
 
 ### Stats section
-[![Praveesh's github stats](https://github-readme-stats.vercel.app/api?username=praveesh91&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/praveesh91) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveesh91&theme=tokyonight)](https://github.com/oliverjumpertz)
+[![Praveesh's github stats](https://github-readme-stats.vercel.app/api?username=praveesh91&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/praveesh91) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveesh91&theme=tokyonight)](https://github.com/praveesh91)
 
 ## 🔥 Stats
 
 <a href="https://github.com/praveesh91/github-readme-stats">
   <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=praveesh91&show_icons=true&theme=tokyonight" height="160"/>
   </a>
+  
+  <a href="https://github.com/praveesh91/github-readme-stats">
+  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=praveesh91&show_icons=true&theme=tokyonight" height="160"/>
+  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveesh91&theme=tokyonight" height="160"/>
+  </a>
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveesh91&theme=tokyonight)](https://github.com/praveesh91)
 
 ## 🏗️ Contributions   
 
