@@ -5,6 +5,14 @@
 I'm Praveesh Pavithran a Front-end Web Developer.
 Find my portfolio here [website](https:/praveeshpavithran.online)
 
+:mailbox: Reach me out!
+[![Linkedin Badge](https://img.shields.io/badge/-Praveesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveeshpavithran/) [![Mail Badge](https://img.shields.io/badge/-praveesh91-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:praveesh91@gmail.com)
+
+
+- 🔭 I’m currently working at **Robert Bosch**.
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: praveesh@gmail.com.
+
 ## 🔥 Stats
   
   <a href="https://github.com/praveesh91/github-readme-stats">
@@ -19,15 +27,6 @@ Find my portfolio here [website](https:/praveeshpavithran.online)
   <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=praveesh91&theme=radical&hide_border=true&count_private=true" height="160"/>
   </a>
 
-
-:mailbox: Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-Praveesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveeshpavithran/) [![Mail Badge](https://img.shields.io/badge/-praveesh91-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:praveesh91@gmail.com)
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently working at **Robert Bosch**.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: praveesh@gmail.com.
 
 ## 🔧 Skills and Tools
 
