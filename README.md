@@ -4,8 +4,8 @@
 
 ### Hi there I'm Praveesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Praveesh Pavithran a Front-end Web Developer.
-Find my portfolio here [website](https://www.praveeshpavithran.online)
+I'm Praveesh a Front-end Web Developer.
+Find my portfolio [here](https://www.praveeshpavithran.online)
 
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Praveesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveeshpavithran/) [![Mail Badge](https://img.shields.io/badge/-praveesh91-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:praveesh91@gmail.com)
