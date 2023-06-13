@@ -29,6 +29,7 @@ Find my portfolio [here](https://www.praveeshpavithran.online)
   <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=praveesh91&theme=radical&hide_border=true&count_private=true" height="160"/>
   </a>
 
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 
 ## 🔧 Skills and Tools
 
@@ -39,4 +40,6 @@ Find my portfolio [here](https://www.praveeshpavithran.online)
 <span><img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
 <span><img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+                                                                                                                        
+                                                                                                                        
                                                                                                                         
