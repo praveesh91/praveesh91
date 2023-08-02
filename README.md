@@ -11,10 +11,6 @@ Find my portfolio [here](https://www.praveeshpavithran.online)
 [![Linkedin Badge](https://img.shields.io/badge/-Praveesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveeshpavithran/) [![Mail Badge](https://img.shields.io/badge/-praveesh91-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:praveesh91@gmail.com)
 
 
-- 🔭 I’m currently working at **Robert Bosch**.
-
-- 📫 How to reach me: praveesh@gmail.com.
-
 ## 🔥 Stats
   
   <a href="https://github.com/praveesh91/github-readme-stats">
