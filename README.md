@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Praveesh</h1>
 <h3 align="center">I am a programming lover with a Crazy full stack developer who wants to explore every tech stack and I have at least learned something, I think… 🤷‍♂️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalmohit1234&label=Profile%20views&color=0e75b6&style=flat" alt="praveesh91" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveesh91&label=Profile%20views&color=0e75b6&style=flat" alt="praveesh91" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveesh91" alt="praveesh91" /></a> </p>
 
