@@ -19,8 +19,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveesh91&label=Profile%20views&color=0e75b6&style=flat" alt="praveesh91" /> </p>
-  
   <a href="https://github.com/praveesh91/github-readme-stats">
   <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=praveesh91&show_icons=true&theme=tokyonight" height="165"/>
  <img align="streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveesh91&show_icons=true&locale=en&layout=compact&&theme=tokyonight"" alt="praveesh91" />
