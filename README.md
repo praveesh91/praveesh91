@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About me
 
-<h1 align="center">Hi 👋, I'm Praveesh</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Praveesh</h1>
 <h3 align="center">I am a programming lover with a Crazy full stack developer who wants to explore every tech stack and I have at least learned something, I think… 🤷‍♂️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveesh91&label=Profile%20views&color=0e75b6&style=flat" alt="praveesh91" /> </p>
