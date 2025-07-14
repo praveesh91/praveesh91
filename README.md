@@ -36,6 +36,8 @@
 ## 🔧 Skills and Tools
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,nodejs,react,ts,mongodb)](https://skills.thijs.gg)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,graphql,jquery,npm,nodejs,ts,react)](https://skillicons.dev)
                                                                                                                         
                                                                                                                         
                                                                                                                         
